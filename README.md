@@ -1,3 +1,9 @@
+# DISCLAIMER
+
+This Password Generator is a personal coding project created for educational purposes only.
+All password generation is done locally on your device. No passwords are stored, transmitted, or collected.
+Please always verify the strength of generated passwords and use a trusted password manager for real-world use.
+
 # Password Generator (Python)
 
 A simple, secure random‐password generator in Python that:
